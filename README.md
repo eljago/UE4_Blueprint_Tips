@@ -56,7 +56,7 @@ Se puede asignar la Categoría de una variable, función, etc. arrastrándola a 
 
 ## 7. Transfer Pins
 
-Mantener apretado **Control** para mover los pines de un nodo a otro en grupo.
+Mantener presionado **Control** para mover los pines de un nodo a otro en grupo.
 
 ![](images/img_7_transfer_pins.gif)
 
